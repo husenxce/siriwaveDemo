@@ -1,0 +1,45 @@
+#siri-container-a, #siri-container-b{
+	padding: 50px;
+	position: relative;
+	left:0;
+	right:0;
+	margin-left: auto;
+	margin-right: auto;
+	width: 1000px;
+	top: 50px;
+}
+
+body {
+	background-color: #454545;
+}
+
+#button-container {
+	width: 190px;
+    position: relative;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#button-container button {
+	border-radius: 15px;
+    height: 30px;
+    width: 60px;
+    border: none;
+}
+
+#start-recording{
+	background-color: #3498DB;
+	color: #ffffff;
+}
+
+#stop-recording{
+	background-color: #E74C3C;
+	color: #ffffff;
+}
+
+#play-recording{
+	background-color: #28B463;
+	color: #ffffff;
+}
